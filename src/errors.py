@@ -1,0 +1,5 @@
+CANNOT_CREATE_APPOINTMENT_CONFLIT_ERROR = 'Cannot create appointment. There is already an overlapping appointment in the provided time frame'
+CANNOT_CREATE_APPOINTMENT_OUTSIDE_WORKING_HOURS_ERROR = 'Cannot create appointment. The doctor is not working at the provided time'
+CANNOT_CREATE_APPOINTMENT_ON_DIFFERENT_DAYS_ERROR = 'Cannot create appointment. The appointment starts and ends on different days'
+CANNOT_CREATE_APPOINTMENT_WRONG_TIME_ORDER_ERROR = 'Cannot create appointment. The appointment starts after it ends'
+CANNOT_FIND_AVAILABLE_APPOINTMENT_ERROR = 'No available appointments found within the given parameters'
